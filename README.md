@@ -1,0 +1,2 @@
+# 23_BNU_computer_structure
+2023北京师范大学计算机组成原理学习笔记，anki卡牌，练习部分汇总
