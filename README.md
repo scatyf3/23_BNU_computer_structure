@@ -13,3 +13,6 @@
 ## 感谢和免责声明
  
 感谢教授这门课的老师公开课程PPT在群里，笔者才能制作出这个Note和anki卡片。本repo的内容基于这门课程教师的PPT，仅供同学们学习便利使用，若您感到侵权，请联系笔者关闭该repo。
+
+## 推荐资料
+- [16年BNU计组笔记](https://github.com/xuhongxu96/Review-2016-Spring/tree/master)
